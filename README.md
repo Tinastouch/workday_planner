@@ -26,6 +26,7 @@ Future events will be highlighted in green, current time will be highlighted in 
   
 ## Screenshot
 
+![Screen Shot 2022-02-16 at 10 09 05 AM](https://user-images.githubusercontent.com/93742788/154294122-25bd7226-e9cb-4968-aed2-e3fe7a6016ab.png)
 
 
 ## Questions
