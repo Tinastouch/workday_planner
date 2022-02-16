@@ -1,6 +1,4 @@
-# workday_planner
-
-# My Team Profiles
+# Workday_planner
   
 
   ## About The Project
